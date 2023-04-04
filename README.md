@@ -9,7 +9,7 @@ Buscando transição de carreira, venho a uns 3 meses buscando conhecimento na �
 
 ### Projeto
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=henriquedmcosta&repo=Tik-Tok-Project&theme=dark)](https://github.com/henriquedmcosta/Tik-Tok-Project.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=&repo=Tik-Tok-Project&theme=dark)](https://github.com/henriquedmcosta/Tik-Tok-Project.git)
 
 ### Linguagens utilizadas
 
