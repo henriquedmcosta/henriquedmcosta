@@ -1,7 +1,7 @@
 ### Olá pessoal 👋
 
 ###### Sobre o Henrique
-Buscando transição de carreira, venho a uns 3 meses buscando conhecimento na área de programação, ainda não sei em qual área atuar, Front ou Back, mas estou tomando gosto cada vez que aprendo algo novo, cada nova descoberta, cada novo codigo feito, e cada vez mais vejo que é isso que quero seguir.
+Buscando transição de carreira, venho buscando conhecimento na área de programação focando no Back-end, tomando gosto cada vez que aprendo algo novo, cada nova descoberta, cada novo codigo feito, e cada vez mais vejo que é isso que quero seguir.
 
 ### Detalhes
 
